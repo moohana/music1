@@ -1,0 +1,14 @@
+
+<div class="card_container container">
+  <div *ngFor = "let music of arrayOfMusic" class="card" style="width: 18rem;">
+    <img src= "{{music.image[3]['#text']}}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{music.name}}</h5>
+      <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+      <button href="#" (click)="addToFavs(music)" class="btn btn-primary"> Add to Favourites</button>
+    
+      <button href="#" (click)="detail(music.name)" class="btn btn-primary">Details</button>  
+    </div>
+  </div>
+<h1>{{arrayOfMusic.name}}</h1>
+</div>

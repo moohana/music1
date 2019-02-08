@@ -1,0 +1,231 @@
+{
+  "favourite": [
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/7d42f1a052ef4523965a51a5c4985491.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/7d42f1a052ef4523965a51a5c4985491.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/7d42f1a052ef4523965a51a5c4985491.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/7d42f1a052ef4523965a51a5c4985491.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/d97445c8667689e52bab472054ddda76.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/d97445c8667689e52bab472054ddda76.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/d97445c8667689e52bab472054ddda76.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/d97445c8667689e52bab472054ddda76.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/a126a88f45e54abfca14d6150f6d694c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/a126a88f45e54abfca14d6150f6d694c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/a126a88f45e54abfca14d6150f6d694c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/a126a88f45e54abfca14d6150f6d694c.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/b2fcc72ef1d74360b436bc382141c4fd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/b2fcc72ef1d74360b436bc382141c4fd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/b2fcc72ef1d74360b436bc382141c4fd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/b2fcc72ef1d74360b436bc382141c4fd.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "image": [
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/34s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/64s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/174s/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/5c6b9c8e1fa8379cec45821b6c9cda1e.png",
+          "size": "extralarge"
+        }
+      ],
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
